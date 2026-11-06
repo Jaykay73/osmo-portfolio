@@ -1,0 +1,39 @@
+{
+  "imported": 148,
+  "refreshed": 140,
+  "retained": 8,
+  "failures": [
+    {
+      "id": "af059b16ff2d416aa4eeaddd146fd017",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "a9f1efee99b615f80bbe6958bc8addf1",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "2fd431387db2cc22da1cc62c4060b4f5",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "41924854b872333350a0a7dde063f804",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "cb195f17b19f1f841112aa82f5122354",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "59eb15b291f4fae1a8be521c338b8aae",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "590cfbd2d3d5114bc91abd8572a9ba97",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "17e27f05ea681795e0f1a5f41fdc726b",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}
