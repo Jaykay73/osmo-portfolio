@@ -1,0 +1,9 @@
+node_modules/
+.openai/
+.sites-runtime/
+.env
+.env.*
+!.env.example
+*.log
+*.tar.gz
+.DS_Store
